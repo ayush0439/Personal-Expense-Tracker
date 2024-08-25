@@ -1,0 +1,12 @@
+/expense-tracker
+│   app.py
+│   requirements.txt
+│   README.md
+│   .gitignore
+└───templates
+│   │   index.html
+└───static
+    ├───css
+    │   └───styles.css
+    └───js
+        └───scripts.js
